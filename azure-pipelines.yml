@@ -7,12 +7,12 @@ trigger:
   - '*'
   
   pool:
-    vmImage: 'ubuntu-latest'
-    demands:
-    - npm
+    vmImage: ubuntu-latest
+    demands: npm
   
   variables:
-    buildConfiguration: 'Release'
+    - name: buildConfiguration
+      value: Release
   
   steps:
   - task: UseDotNet@2
