@@ -1,4 +1,5 @@
 [![Build Status](https://dev.azure.com/dotkitchen/Space%20Game%20Workflow/_apis/build/status/mslearn-tailspin-spacegame-web?branchName=master)](https://dev.azure.com/dotkitchen/Space%20Game%20Workflow/_build/latest?definitionId=4&branchName=master)
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=infuerno_mslearn-tailspin-spacegame-web&metric=alert_status)](https://sonarcloud.io/dashboard?id=infuerno_mslearn-tailspin-spacegame-web)
 
 # Contributing
 
